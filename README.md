@@ -17,13 +17,13 @@ vue.js × firebase
 # Usage
  
 依頼者
-ID :  joruju2248@gmail.com
-パスワード　　：　　22482248 
+ID:joruju2248@gmail.com
+パスワード：22482248 
 
 受託者
-ID :  moonlight2248@yahoo.co.jp
-パスワード　　：　　joruju2248
+ID:moonlight2248@yahoo.co.jp
+パスワード：joruju2248
 
 管理者
-ID :  uniqappinfomation@gmail.com
-パスワード　　：　　111111
+ID:uniqappinfomation@gmail.com
+パスワード：111111
