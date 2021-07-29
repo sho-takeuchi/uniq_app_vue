@@ -27,3 +27,6 @@ ID:moonlight2248@yahoo.co.jp
 管理者
 ID:uniqappinfomation@gmail.com
 パスワード：111111
+
+#本番環境URL
+https://unic-app-7f6c2.web.app/
